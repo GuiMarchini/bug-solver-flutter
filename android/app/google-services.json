@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991834864708",
+    "project_id": "bug-solver",
+    "storage_bucket": "bug-solver.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991834864708:android:8204f9f5bd9dc064305011",
+        "android_client_info": {
+          "package_name": "com.example.bugsresolver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHThyI-NGg4zCnOgo0bLIl9HxyUjpskM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
